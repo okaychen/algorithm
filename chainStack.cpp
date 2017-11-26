@@ -1,4 +1,4 @@
-/***��ջʵ�����Ƶ�ת��***/
+﻿/***链栈实现数制的转换***/
 #include<iostream>
 using namespace std;
 
@@ -46,9 +46,9 @@ Status Pop(LinkStack &S,int &e)
 	return OK;
 }
 
-//�㷨3.8�����Ƶ�ת��(��ջʵ��)
+//算法3.8　数制的转换(链栈实现)
 void conversion ( ) {
-   //�������������һ���Ǹ�ʮ����������ӡ��������ֵ�İ˽�����
+   //对于输入的任意一个非负十进制数，打印输出与其等值的八进制数
 
 }
 int main()
